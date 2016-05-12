@@ -17,4 +17,6 @@
 
 #### 参考
 [GFW的前世今生.md](data/参考文章－GFW的前世今生.md)
+[对话翻墙软件开发者菲斯克](https://www3.info/76.html)
+[360疑似协助收集VPN供GFW封杀](https://www3.info/84.html)
 [http://www.hikinggfw.org](http://www.hikinggfw.org)
