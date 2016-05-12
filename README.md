@@ -67,7 +67,7 @@ HTTPS证书过滤
 2.付费shadowsocks
 
 #### 友情链接
-[](http://www.hikinggfw.org/）
+[](http://www.hikinggfw.org)
 
 
 
